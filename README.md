@@ -213,7 +213,7 @@ The same structure will be used for every future technology category.
 
 ## Homepage
 
-(Add Screenshot)
+(https://github.com/AK-NetEng/wordpress-it-learning-platform/blob/aab9cb042b4b6ffa3d23ced9dc01619dcf43a40f/screenshots/homepage.png)
 
 ---
 
