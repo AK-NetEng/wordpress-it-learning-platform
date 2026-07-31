@@ -215,29 +215,32 @@ The same structure will be used for every future technology category.
 
 (https://github.com/AK-NetEng/wordpress-it-learning-platform/blob/aab9cb042b4b6ffa3d23ced9dc01619dcf43a40f/screenshots/homepage.png)
 
+
+---
+
+## About Us Page
+
+https://github.com/AK-NetEng/wordpress-it-learning-platform/blob/aab9cb042b4b6ffa3d23ced9dc01619dcf43a40f/screenshots/About%20us.png
+
 ---
 
 ## Learn Page
-
-(Add Screenshot)
+https://github.com/AK-NetEng/wordpress-it-learning-platform/blob/a4380cb99071ca336f0ca4d8e25917a10cc5af0f/screenshots/Learn%20page.png
 
 ---
 
 ## Networking Page
-
-(Add Screenshot)
+https://github.com/AK-NetEng/wordpress-it-learning-platform/blob/d562165b00cb298bdf1df2cd6ddb649c90da1924/screenshots/Networking%20page-.png
 
 ---
 
 ## Premium Notes
-
-(Add Screenshot)
+https://github.com/AK-NetEng/wordpress-it-learning-platform/blob/d562165b00cb298bdf1df2cd6ddb649c90da1924/screenshots/Premium%20Notes%20Page.png
 
 ---
 
 ## Blog
-
-(Add Screenshot)
+https://github.com/AK-NetEng/wordpress-it-learning-platform/blob/4e86ef9acf20e9df45a9948c2552592ad3189def/screenshots/Blogs%20page.png
 
 ---
 
